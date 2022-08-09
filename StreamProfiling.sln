@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamProfiling", "StreamProfiling\StreamProfiling.csproj", "{88FD636C-8EC0-42AA-8A58-F3FAD64329E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FD636C-8EC0-42AA-8A58-F3FAD64329E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FD636C-8EC0-42AA-8A58-F3FAD64329E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FD636C-8EC0-42AA-8A58-F3FAD64329E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FD636C-8EC0-42AA-8A58-F3FAD64329E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F369B38A-ACC0-469E-BA04-A8790AE1C10C}
+	EndGlobalSection
+EndGlobal
